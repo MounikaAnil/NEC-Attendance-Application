@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
       let StudentsInfoList = [ 
         // place your data here
         {
-            "name": "ABHIRAM KUDARI",
+            "name": "ABHIRA KUDARI",
             "rollNo": "21471A0501",
             "parentNo": 8919511400,
             "studentNo": 7207817154,
