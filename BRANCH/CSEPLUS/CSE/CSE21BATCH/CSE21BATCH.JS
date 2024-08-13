@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     const StudentsInfo = document.getElementById("StudentsInfo");
 
-     let StudentsInfoList = [ 
+      let StudentsInfoList = [ 
         // place your data here
         {
             "name": "ABHIRAM KUDARI",
